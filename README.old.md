@@ -1,2 +1,0 @@
-# joydev
-Bloggo
