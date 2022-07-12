@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/joydev/static/css/main.073c9b0a.css",
-    "main.js": "/joydev/static/js/main.a0973d60.js",
-    "static/js/787.360b1ebe.chunk.js": "/joydev/static/js/787.360b1ebe.chunk.js",
-    "static/media/logo.svg": "/joydev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/joydev/index.html",
-    "main.073c9b0a.css.map": "/joydev/static/css/main.073c9b0a.css.map",
-    "main.a0973d60.js.map": "/joydev/static/js/main.a0973d60.js.map",
-    "787.360b1ebe.chunk.js.map": "/joydev/static/js/787.360b1ebe.chunk.js.map"
+    "main.css": "/YoRHaGrail/joydev.git/static/css/main.073c9b0a.css",
+    "main.js": "/YoRHaGrail/joydev.git/static/js/main.5297b194.js",
+    "static/js/787.360b1ebe.chunk.js": "/YoRHaGrail/joydev.git/static/js/787.360b1ebe.chunk.js",
+    "static/media/logo.svg": "/YoRHaGrail/joydev.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/YoRHaGrail/joydev.git/index.html",
+    "main.073c9b0a.css.map": "/YoRHaGrail/joydev.git/static/css/main.073c9b0a.css.map",
+    "main.5297b194.js.map": "/YoRHaGrail/joydev.git/static/js/main.5297b194.js.map",
+    "787.360b1ebe.chunk.js.map": "/YoRHaGrail/joydev.git/static/js/787.360b1ebe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a0973d60.js"
+    "static/js/main.5297b194.js"
   ]
 }
